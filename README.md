@@ -2,4 +2,4 @@
 
 ### 1° Primeira Lista de Exercícios
 ##### Entrada e Processamento de arquivo
-+ 11) Faça um programa para calcular o estoque médio de uma peça, sendo que o estoque médio = (quantidade_minima + quantidade máxima)/2. [resolução]()
++ Faça um programa para calcular o estoque médio de uma peça, sendo que o estoque médio = (quantidade_minima + quantidade máxima)/2. [resolução]()
