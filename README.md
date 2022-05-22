@@ -33,5 +33,30 @@ x *(-1) se x é menor que zero [resolução](/PrimeiraLista/exer5.java)
 4-Sair [resolução](/PrimeiraLista/exer8.java)
 
 + Tendo como dados de entrada a altura e o sexo de uma pessoa, faça um programa que calcule seu peso ideal, utilizando as seguintes fórmulas:(h - altura)<br/>
-- Para homens:(72.7 * h) - 58 <br/>
-- Para mulheres: (62.1 * h) - 44.7 [resolução](/PrimeiraLista/exer8.java)
+Para homens:(72.7 * h) - 58 <br/>
+Para mulheres: (62.1 * h) - 44.7 [resolução](/PrimeiraLista/exer8.java)
+
+#### Estruturas de Repetição
++ Escreva um programa que exiba os números de 1 a 100 na tela em ordem decrescente. [resolução](/PrimeiraLista/exer10.java)
+
++ Faça um programa que gera e escreve os números ímpares dos números lidos entre 100 e 200. [resolução](/PrimeiraLista/exer11.java)
+
++ Faça um programa para imprimir uma tabuada. [resolução](/PrimeiraLista/exer12.java)
+
+#### Vetores e Matrizes
++ Dada uma sequência de n números (vetor de inteiros), imprimi-la na ordem inversa que foi realizada a leitura. [resolução](/PrimeiraLista/exer13.java)
+
++ Dados dois vetores x e y, ambos com n elementos, determinar o prooduto escalar desses vetores. Ou seja, realizar a soma de todos dos resultados da multiplicação x(i) por y(i). [resolução](/PrimeiraLista/exer14.java) 
+
++ Considere um vetor de 10 números inteiros positivos maiores que zero e um único número inteiro, também positivo e maior que zero. Faça um programa para: <br/>
+a. ler pelo teclado o vetor; <br/>
+b. ler pelo teclado o número X; <br/>
+c. dizer quantos números no vetor são maiores que X, menores que X e iguais a X. [resolução](/PrimeiraLista/exer15.java)
+
+#### Métodos
+
++ Escreva um programa que calcule e retorne o salário atualizado do método REAJUSTE. O método deve receber o valor do salário e o índice de reajuste.
+
++ Escreva um programa que calcule e retorne o valor da hipotenusa através do método HIPOTENUSA. O método recebe o valor da base e da altura de um triângulo.
+
++ Escreva um programa que verifica se um número é par ou impar através de um método chamado VERIFICA. O método deverá receber um número inteiro (n) retornar a mensagem  "PAR" ou "ÍMPAR".
