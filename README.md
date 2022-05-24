@@ -55,8 +55,8 @@ c. dizer quantos números no vetor são maiores que X, menores que X e iguais a 
 
 #### Métodos
 
-+ Escreva um programa que calcule e retorne o salário atualizado do método REAJUSTE. O método deve receber o valor do salário e o índice de reajuste.
++ Escreva um programa que calcule e retorne o salário atualizado do método REAJUSTE. O método deve receber o valor do salário e o índice de reajuste. [resolução](/PrimeiraLista/exer16.java)
 
-+ Escreva um programa que calcule e retorne o valor da hipotenusa através do método HIPOTENUSA. O método recebe o valor da base e da altura de um triângulo.
++ Escreva um programa que calcule e retorne o valor da hipotenusa através do método HIPOTENUSA. O método recebe o valor da base e da altura de um triângulo. [resolução](/PrimeiraLista/exer17.java)
 
-+ Escreva um programa que verifica se um número é par ou impar através de um método chamado VERIFICA. O método deverá receber um número inteiro (n) retornar a mensagem  "PAR" ou "ÍMPAR".
++ Escreva um programa que verifica se um número é par ou impar através de um método chamado VERIFICA. O método deverá receber um número inteiro (n) retornar a mensagem  "PAR" ou "ÍMPAR". [resolução](/PrimeiraLista/exer18.java)
